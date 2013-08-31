@@ -18,10 +18,10 @@ A FastWesome contest is a front-end design contest between you and your friends.
 
 
 ### When is the next FastWesome ?
-### [FastWesome Schedule](http://cdpn.io/mFecj)
+## [FastWesome Schedule](http://cdpn.io/mFecj)
 ### Where can I join a FastWesome ?
-### [tlk.io/fastwesome](http://tlk.io/fastwesome)
+## [tlk.io/fastwesome](http://tlk.io/fastwesome)
 ### Where can I find the results ? 
-### [FastWesome website](http://fastwesome.lucasbonomi.com/)
+## [FastWesome website](http://fastwesome.lucasbonomi.com/)
 
  
